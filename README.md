@@ -11,12 +11,12 @@ Este projeto é um **hub de carreira estático** desenvolvido com foco em boas p
 
 ## 🧩 Wireframe Desktop
 
-[wireframe_desktop](wireframe_desktop.txt)
+[wireframe_desktop](assets/wireframe_desktop.txt)
 
 
 ## 🧩 Wireframe Mobile
 
-[wireframe_mobile](wireframe_mobile.txt)
+[wireframe_mobile](assets/wireframe_mobile.txt)
 
 
 ## 🧩 Funcionalidades
@@ -63,13 +63,7 @@ O projeto foi otimizado para obter boa pontuação no Lighthouse:
 
 ## 📁 Estrutura do projeto
 
-*Portfolio_Profissional_Interativo/
-               *├── index.html
-               *├── styles.css
-               *└── assets/
-                  *├── profile.jpg
-                  *├── projeto1.jpg
-                  *└── projeto2.jpg
+[estrutura_projeto](assets/estrutura_projeto.txt)
 
 ## 📬 Contato
 
@@ -77,15 +71,15 @@ O formulário utiliza integração com **Formspree**, permitindo envio de mensag
 
 ## 🔧 Como executar o projeto
 
-*1. Clone o repositório:
+1. Clone o repositório:
 
-*terminal ou shell
+terminal ou shell
 
-*git clone https://github.com/PauloPMS/Portfolio_Profissional_Interativo.git
+git clone https://github.com/PauloPMS/Portfolio_Profissional_Interativo.git
 
-*2. Abra o arquivo:
+2. Abra o arquivo:
 
-*3. index.html
+3. index.html
 
 ## 📌 Versionamento
 
