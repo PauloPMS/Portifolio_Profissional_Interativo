@@ -10,80 +10,14 @@ Este projeto é um **hub de carreira estático** desenvolvido com foco em boas p
 🔗 **Repositório**
 (Adicione aqui o link do seu GitHub)
 
-## Wireframe Desktop
+## 🧩 Wireframe Desktop
 
-┌──────────────────────────────────────────────┐
-│ NOME              SOBRE | PORTFÓLIO | CONTATO│
-└──────────────────────────────────────────────┘
+[wireframe_desktop](wireframe_desktop.txt)
 
-┌──────────────────────────────────────────────┐
-│                  SOBRE                       │
-│                                              │
-│   ( FOTO )      Texto sobre você             │
-│                 Resumo profissional          │
-│                                              │
-└──────────────────────────────────────────────┘
 
-┌──────────────────────────────────────────────┐
-│   PORTFÓLIO                                  │
-│                                              │
-│  ┌──────────────┐   ┌──────────────┐         │
-│  │   IMG        │   │   IMG        │         │
-│  │ Projeto 1    │   │ Projeto 2    │         │
-│  │ descrição    │   │ descrição    │         │
-│  │ [ botão ]    │   │ [ botão ]    │         │
-│  └──────────────┘   └──────────────┘         │
-│                                              │
-└──────────────────────────────────────────────┘
+## 🧩 Wireframe Mobile
 
-┌──────────────────────────────────────────────┐
-│                 CONTATO                      │
-│                                              │
-│        [ nome ]                              │
-│        [ email ]                             │
-│        [ mensagem ]                          │
-│        [ enviar botão ]                      │
-│                                              │
-└──────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────┐
-│        ( GitHub ) ( LinkedIn )         ↑     │
-│              © 2026               botão topo │
-└──────────────────────────────────────────────┘
-
-## Wireframe Mobile
-
-┌──────────────────────┐
-│NOME          S  P  C |     
-└──────────────────────┘
-
-┌──────────────────────┐
-│        FOTO          │
-│   Texto sobre        │
-└──────────────────────┘
-
-┌──────────────────────┐
-│     PROJETO 1        │
-│     [ imagem ]       │
-│     [ botão ]        │
-│                      │
-│     PROJETO 2        │
-│     [ imagem ]       │
-│     [ botão ]        │
-└──────────────────────┘
-
-┌──────────────────────┐
-│   FORMULÁRIO         │
-│ [ nome ]             │
-│ [ email ]            │
-│ [ msg ]              │
-│ [ enviar ]           │
-└──────────────────────┘
-
-┌──────────────────────┐
-│ GitHub LinkedIn       
-│ © 2026   ↑ botão topo│
-└──────────────────────┘
+[wireframe_mobile](wireframe_mobile.txt)
 
 
 ## 🧩 Funcionalidades
